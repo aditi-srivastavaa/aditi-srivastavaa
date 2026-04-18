@@ -48,20 +48,9 @@ doing work that actually matters
 
 ## > matrix and mr.robot are my fav 
 
-
-```md
-```bash
-$ whoami
-aditi
-
-$ current_focus
-learning ai && building in public
-
-$ life_status
-still loading...
-
-$ fuel
-coffee ☕
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&background=000000&lines=whoami:+aditi;learning+ai+%26+building;late+night+ideas+loading...;coffee+is+required+☕&font=Fira+Code&width=500&height=100">
+</p>
 
 ---
 
