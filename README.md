@@ -1,7 +1,7 @@
 # aditi-srivastavaa
 
 [![Instagram](https://img.shields.io/badge/Instagram-@addy.sriv-purple?style=for-the-badge)](https://instagram.com/addy.sriv)
-<a href="https://theteenmagazine.com/https://www.theteenmagazine.com/writers/aditi-srivstava">
+<a href="https://theteenmagazine.com/https://www.theteenmagazine.com/writers/aditi-srivastava">
   <img src="https://img.shields.io/badge/the%20teen%20magazine-writing%20online-000000?style=for-the-badge"/>
 </a>
 <a href="https://linkedin.com/in/aditi-srivastava-7378602b6">
