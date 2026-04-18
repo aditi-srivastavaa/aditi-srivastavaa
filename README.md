@@ -46,7 +46,7 @@ doing work that actually matters
 
 ---
 
-## >w<
+## not sure why you're here but welcome i guess lol >w<
 
 ![](./addy_terminal_v2.gif)
 
