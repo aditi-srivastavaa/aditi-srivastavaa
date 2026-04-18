@@ -8,7 +8,7 @@
  <img src="https://img.shields.io/badge/teen%20magazine-writing%20online-ff69b4?style=for-the-badge&logoColor=white"/>
 </a>
 <a href="https://x.com/music_adit17056">
-  <img src="https://img.shields.io/badge/X-PROFILE-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PROFILE-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 hey, i'm aditi 👋
