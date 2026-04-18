@@ -42,17 +42,12 @@ building something big someday
 doing work that actually matters  
 
 ---
-![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditi-srivastavaa&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-srivastavaa&layout=compact&theme=tokyonight)## ✧ stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aditi-srivastavaa&show_icons=true&theme=tokyonight)
+![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditi-srivastavaa&show_icons=true&theme=rose_pine)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-srivastavaa&layout=compact&theme=rose_pine)## ✧ stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aditi-srivastavaa&show_icons=true&theme=tokyonight"/>
-
-<img src="https://streak-stats.demolab.com?user=aditi-srivastavaa&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=aditi-srivastavaa&theme=rose_pine"/>
 
 </p>
 
