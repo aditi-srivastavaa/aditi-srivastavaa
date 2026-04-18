@@ -1,4 +1,4 @@
-# aditi-srivastava
+# hey, i'm aditi 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-@addy.sriv-purple?style=for-the-badge)](https://instagram.com/addy.sriv)
 <a href="https://linkedin.com/in/aditi-srivastava-7378602b6">
@@ -10,8 +10,6 @@
 <a href="https://x.com/music_adit17056">
   <img src="https://img.shields.io/badge/PROFILE-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-
-hey, i'm aditi 👋
 
 just a girl who loves coffee, code & creating things on the internet ☕️💻  
 
