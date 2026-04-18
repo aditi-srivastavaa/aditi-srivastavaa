@@ -1,4 +1,4 @@
-# aditi-srivastava
+# aditi-srivastavaa
 
 [![Instagram](https://img.shields.io/badge/Instagram-@addy.sriv-purple?style=for-the-badge)](https://instagram.com/addy.sriv)
 
