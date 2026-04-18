@@ -47,8 +47,7 @@ doing work that actually matters
 ---
 
 ## ✧ stats
-
-![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditi-srivastavaa&show_icons=true&theme=dracula)<p>
+<p>
 <img src="https://streak-stats.demolab.com?user=aditi-srivastavaa&theme=dracula"/>
 </p>
 
