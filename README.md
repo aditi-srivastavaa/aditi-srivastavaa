@@ -20,7 +20,7 @@ just a girl who loves coffee, code & creating things on the internet ☕️💻
 🚀 venture research & growth intern @ sh1p (sf)  
 🤖 into ai, robotics & biotech  
 🎤 also into music (yes i sing)  
-📝writer & poet. check out my poems on allpoetry.com
+📝writer & poet 
 
 ---
 
