@@ -35,7 +35,9 @@ coffee. a lot of it.
 
 ## ✧ currently
 learning ai + creating content
+
 building in public
+
 figuring things out as i go  
 
 ---
