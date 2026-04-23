@@ -53,7 +53,6 @@ doing work that actually matters
 
 ![](./addy_terminal_v2.gif)
 
-
 ---
 
 ## ✧ stats
