@@ -45,8 +45,11 @@ figuring things out as i go
 ## ✧ goals
 dream school? mit.
 yeah.
+
 wanna be in top 1% like
+
 one of the cracked builders
+
 doing work that actually matters  
 
 ---
