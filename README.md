@@ -43,8 +43,10 @@ figuring things out as i go
 ---
 
 ## ✧ goals
-mit? yeah.  
-building something big someday  
+dream school? mit.
+yeah.
+wanna be in top 1% like
+one of the cracked builders
 doing work that actually matters  
 
 ---
