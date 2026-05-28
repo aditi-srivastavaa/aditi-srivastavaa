@@ -15,7 +15,7 @@ hey, i'm aditi 👋
 
 just a girl who loves coffee, code & creating things on the internet ☕️💻  
 
----
+--
 
 🚀 venture research & growth intern @ sh1p (sf)  
 🤖 into ai, robotics & biotech  
